@@ -1,0 +1,1 @@
+{"dataset_name": "pos_10492.png.json", "image_link": "", "annotation_type": "image", "annotation_objects": {"Vehicle": {"presence": 0, "bbox": []}, "License Plate": {"presence": 0, "bbox": []}}, "annotation_attributes": {"Vehicle": {"Type": null, "Pose": null, "Model": null, "Make": null, "Color": null}, "License Plate": {"Difficulty Score": null, "Value": null}}}
